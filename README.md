@@ -26,4 +26,12 @@ Exportable HTML reports with TLP classification
 Clipboard monitor, scan history, and fully customisable workspace
 
 
+
+Please download the latest version from the right side section "Releases"
+or direct link to the application is: https://github.com/TheCyberMate/InCyter/releases/latest/download/InCyter.exe
+
+
+
+
+
 InCyter |  © 2026 Fady Azzi  |  Cyber Threat Investigation Platform
