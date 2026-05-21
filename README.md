@@ -26,9 +26,17 @@ Exportable HTML reports with TLP classification
 Clipboard monitor, scan history, and fully customisable workspace
 
 
+NOTE:
+==
+Some Anti-Viruses or EDRs might block the download of the exe file due to the packaging and not having an Signed Authority certificate. You can Download the zip file as a workaround.
 
-Please download the latest version from the right side section "Releases"
-or direct link to the application is: https://github.com/TheCyberMate/InCyter/releases/latest/download/InCyter.exe
+Please download the latest exe or zip version from the right side section "Releases", or use below direct links.
+
+Direct link to the exe is: 
+https://github.com/TheCyberMate/InCyter/releases/latest/download/InCyter.exe
+
+Direct link to the zip is: 
+https://github.com/TheCyberMate/InCyter/releases/latest/download/InCyter.zip
 
 
 
