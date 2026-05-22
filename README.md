@@ -35,6 +35,8 @@ Please download the latest exe or zip version from the right side section "Relea
 Direct link to the exe is: 
 https://github.com/TheCyberMate/InCyter/releases/latest/download/InCyter_Setup.exe
 
+Direct link to the zip is: 
+https://github.com/TheCyberMate/InCyter/releases/latest/download/InCyter_Setup.zip
 
 
 
