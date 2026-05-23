@@ -1,7 +1,7 @@
 InCyter — Cyber Threat Investigation Platform
 =================================================
 
-InCyter is a Windows-based threat investigation desktop app (Tested on Windows 10 / 11 x64) built for security analysts and SOC teams. It consolidates the most common DFIR and CTI workflows into a single dark-themed interface — no switching between browser tabs or tools.
+InCyter is a Windows-based threat investigation desktop app (Tested on Windows 10 / 11 x64) built by Fady Azzi aka CyberMate for security analysts and SOC teams. It consolidates the most common DFIR and CTI workflows into a single dark-themed interface — no switching between browser tabs or tools.
 
 What it does:
 
