@@ -1,7 +1,7 @@
 InCyter - Cyber Threat Investigation Platform
 =================================================
 
-InCyter is a Windows-based threat investigation desktop app (Tested on Windows 10 / 11 x64) built by Fady Azzi aka CyberMate for security analysts and SOC teams. It consolidates the most common DFIR and CTI workflows into a single dark-themed interface — no switching between browser tabs or tools.
+InCyter is a Windows-based threat investigation desktop app (Tested on Windows 10 / 11 x64) built by Fady Azzi aka Zero-F for security analysts and SOC teams. It consolidates the most common DFIR and CTI workflows into a single dark-themed interface — no switching between browser tabs or tools.
 
 What it does:
 
@@ -33,10 +33,10 @@ Some Anti-Viruses or EDRs might block the download of the exe file due to the pa
 Please download the latest exe or zip version from the right side section "Releases", or use below direct links.
 
 Direct link to the exe is: 
-https://github.com/TheCyberMate/InCyter/releases/latest/download/InCyterInstaller.exe
+https://github.com/FadyAzzi/InCyter/releases/latest/download/InCyterInstaller.exe
 
 Direct link to the zip is: 
-https://github.com/TheCyberMate/InCyter/releases/latest/download/InCyterInstaller.zip
+https://github.com/FadyAzzi/InCyter/releases/latest/download/InCyterInstaller.zip
 
 
 
